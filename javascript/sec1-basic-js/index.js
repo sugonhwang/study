@@ -1,3 +1,2 @@
-console.log("hello world");
-console.log(1);
-console.log(true);
+const 멍멍이 = "왈왈";
+console.log(멍멍이);
